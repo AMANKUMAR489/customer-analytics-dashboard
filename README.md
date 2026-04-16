@@ -31,5 +31,6 @@ The goal was to understand how different factors like delivery time, order volum
 
 ## Live Dashboard
 [View Live Dashboard](https://dashbaord-taupe.vercel.app/)
+Note: Upload sample data (if required) to view dashboard metrics.
 
 Note: The dashboard supports uploading data to view insights dynamically.
