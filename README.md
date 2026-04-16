@@ -21,7 +21,7 @@ The goal was to understand how different factors like delivery time, order volum
 ![KPIs]()
 
 ### Orders & Analytics
-![Analytics](/dashboard-analytics.png)
+![Analytics](dashboard-analytics.png.png)
 
 ### Operations & Performance
 ![Operations](/dashboard-operations.png)
