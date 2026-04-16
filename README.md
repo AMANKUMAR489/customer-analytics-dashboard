@@ -2,8 +2,7 @@
 
 ## Live Demo
 [View Live Dashboard](https://dashbaord-taupe.vercel.app/)
-Note: Upload sample data (if required) to view dashboard metrics.
-
+Note: Dashboard supports dynamic data upload to view insights.
 
 ## Overview
 This project focuses on analyzing customer behavior and operational performance using a Power BI dashboard and a live version for interactive analysis.
