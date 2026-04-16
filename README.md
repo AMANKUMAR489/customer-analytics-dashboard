@@ -21,7 +21,7 @@ The goal was to understand how different factors like delivery time, order volum
 ![KPIs]()
 
 ### Orders & Analytics
-![Analytics](https://github.com/AMANKUMAR489/customer-analytics-dashboard/blob/main/dashboard-analytics.png.png)
+![Analytics](https://raw.githubusercontent.com/AMANKUMAR489/customer-analytics-dashboard/main/dashboard-analytics.png.png)
 
 ### Operations & Performance
 ![Operations](https://github.com/AMANKUMAR489/customer-analytics-dashboard/blob/main/dashboard-feedback.png.png)
