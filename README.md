@@ -18,7 +18,7 @@ The goal was to understand how different factors like delivery time, order volum
 ## Dashboard Preview
 
 ### Key KPIs & Overview
-![KPIs](dashboard-kpis.png)
+![KPIs]()
 
 ### Orders & Analytics
 ![Analytics](dashboard-analytics.png)
@@ -30,6 +30,6 @@ The goal was to understand how different factors like delivery time, order volum
 ![Feedback](dashboard-feedback.png)
 
 ## Live Dashboard
-[View Live Dashboard](https://dashboard-taupe.vercel.app/)
+[View Live Dashboard](https://dashbaord-taupe.vercel.app/)
 
 Note: The dashboard supports uploading data to view insights dynamically.
