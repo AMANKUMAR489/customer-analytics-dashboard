@@ -18,7 +18,7 @@ The goal was to understand how different factors like delivery time, order volum
 ## Dashboard Preview
 
 ### Key KPIs & Overview
-![KPIs]()
+![KPIs](https://raw.githubusercontent.com/AMANKUMAR489/customer-analytics-dashboard/main/dashboard-kpis.png.png)
 
 ### Orders & Analytics
 ![Analytics](https://raw.githubusercontent.com/AMANKUMAR489/customer-analytics-dashboard/main/dashboard-analytics.png.png)
