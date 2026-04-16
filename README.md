@@ -27,7 +27,7 @@ The goal was to understand how different factors like delivery time, order volum
 ![Operations](https://github.com/AMANKUMAR489/customer-analytics-dashboard/blob/main/dashboard-feedback.png.png)
 
 ### Customer Feedback & Ratings
-![Feedback](/dashboard-feedback.png)
+![Feedback](https://raw.githubusercontent.com/AMANKUMAR489/customer-analytics-dashboard/main/dashboard-feedback.png.png)
 
 ## Live Dashboard
 [View Live Dashboard](https://dashbaord-taupe.vercel.app/)
