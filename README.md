@@ -1,5 +1,10 @@
 # Customer Analytics Dashboard (Power BI + Live)
 
+## Live Demo
+[View Live Dashboard](https://dashbaord-taupe.vercel.app/)
+Note: Upload sample data (if required) to view dashboard metrics.
+
+
 ## Overview
 This project focuses on analyzing customer behavior and operational performance using a Power BI dashboard and a live version for interactive analysis.
 The goal was to understand how different factors like delivery time, order volume, and customer ratings affect overall performance.
