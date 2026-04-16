@@ -21,13 +21,13 @@ The goal was to understand how different factors like delivery time, order volum
 ![KPIs]()
 
 ### Orders & Analytics
-![Analytics](dashboard-analytics.png)
+![Analytics](./dashboard-analytics.png)
 
 ### Operations & Performance
-![Operations](dashboard-operations.png)
+![Operations](./dashboard-operations.png)
 
 ### Customer Feedback & Ratings
-![Feedback](dashboard-feedback.png)
+![Feedback](./dashboard-feedback.png)
 
 ## Live Dashboard
 [View Live Dashboard](https://dashbaord-taupe.vercel.app/)
