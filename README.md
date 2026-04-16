@@ -34,3 +34,9 @@ The goal was to understand how different factors like delivery time, order volum
 Note: Upload sample data (if required) to view dashboard metrics.
 
 Note: The dashboard supports uploading data to view insights dynamically.
+
+## Tech Stack
+- Power BI
+- Excel
+- SQL (Basic Queries)
+- Data Visualization
